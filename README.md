@@ -9,3 +9,8 @@ We have to reimplement functions from the C standard library and compile them in
 git clone git@github.com:Anthonym0/libft.git
 cd libft
 make
+
+## ✅ Grading
+
+Project completed and validated ✅  
+**Final score: 100/100 🎉**
